@@ -1,4 +1,3 @@
-# Dotnet_Scaffolding_Command_demo
 # Dotnet command scaffolding tool controller and view
 
 Dotnet Command Scaffolding Tool
